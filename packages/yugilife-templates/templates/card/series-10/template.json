@@ -2115,7 +2115,7 @@
         {
           "id": "attributeTrap",
           "kind": "image",
-          "label": "TRAP attribute background",
+          "label": "Fondo de atributo TRAMPA",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.trap",
           "defaultVisible": false,
@@ -2248,7 +2248,7 @@
       "semanticStyles": [
         {
           "id": "normal",
-          "label": "Normal Trap Card label",
+          "label": "[ Carta <scale x=\"0.75\" y=\"0.75\">D</scale>e Trampa ]"
           "when": {
             "path": "trap.type",
             "equals": "normal"
