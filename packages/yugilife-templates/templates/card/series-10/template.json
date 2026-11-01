@@ -2031,7 +2031,7 @@
         {
           "id": "attributeDark",
           "kind": "image",
-          "label": "DARK attribute background",
+          "label": "Fondo de atributo OSCURIDAD",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.dark",
           "defaultVisible": false,
@@ -2045,7 +2045,7 @@
         {
           "id": "attributeDivine",
           "kind": "image",
-          "label": "DIVINE attribute background",
+          "label": "Fondo de atributo DIVINIDAD",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.divine",
           "defaultVisible": false,
@@ -2059,7 +2059,7 @@
         {
           "id": "attributeEarth",
           "kind": "image",
-          "label": "EARTH attribute background",
+          "label": "Fondo de atributo TIERRA",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.earth",
           "defaultVisible": false,
@@ -2073,7 +2073,7 @@
         {
           "id": "attributeFire",
           "kind": "image",
-          "label": "FIRE attribute background",
+          "label": "Fondo de atributo FUEGO",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.fire",
           "defaultVisible": false,
@@ -2087,7 +2087,7 @@
         {
           "id": "attributeLight",
           "kind": "image",
-          "label": "LIGHT attribute background",
+          "label": "Fondo de atributo LUZ",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.light",
           "defaultVisible": false,
@@ -2101,7 +2101,7 @@
         {
           "id": "attributeSpell",
           "kind": "image",
-          "label": "SPELL attribute background",
+          "label": "Fondo de atributo MÁGICA",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.spell",
           "defaultVisible": false,
@@ -2129,7 +2129,7 @@
         {
           "id": "attributeWater",
           "kind": "image",
-          "label": "WATER attribute background",
+          "label": "Fondo de atributo AGUA",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.water",
           "defaultVisible": false,
@@ -2143,7 +2143,7 @@
         {
           "id": "attributeWind",
           "kind": "image",
-          "label": "WIND attribute background",
+          "label": "Fondo de atributo VIENTO",
           "group": "Card symbols",
           "assetId": "card.series-10.attribute.wind",
           "defaultVisible": false,
